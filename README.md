@@ -1,2 +1,0 @@
-# TembarCalculator
-Temba Board Calculator
